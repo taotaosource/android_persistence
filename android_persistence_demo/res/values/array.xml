@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="left_menu_array">
+        <item>Insert</item>
+        <item>Delete</item>
+        <item>Update</item>
+        <item>Query</item>
+        <item>ContentProvider</item>
+    </string-array>
+    <string-array name="insert_array">
+        <item>Autoincrement Id Insert</item>
+        <item>UUID Id Insert</item>
+        <item>Insert 1000 records</item>
+    </string-array>
+    <string-array name="delete_array">
+        <item>Delete</item>
+    </string-array>
+    <string-array name="update_array">
+        <item>Update</item>
+    </string-array>
+    <string-array name="query_array">
+        <item>Id Query</item>
+        <item>Criteria Query</item>
+    </string-array>
+	
+    
+     <string-array name="criteria_query_array">
+        <item>Id equal</item>
+        <item>Example query</item>
+        <item>Property equal</item>
+        <item>Property not equal</item>
+        <item>Property like</item>
+        <item>Property greater than</item>
+        <item>Property less than</item>
+        <item>Property greater than or equal</item>
+        <item>Property less than or equal</item>
+        <item>Property between</item>
+        <item>Property in</item>
+        <item>Criterion and</item>
+        <item>Criterion multiple and</item>
+        <item>Criterion or</item>
+        <item>Criterion multiple or</item>
+        <item>Criterion sqlRestriction</item>
+        <item>Paging query</item>
+        <item>Property order</item>
+        
+    </string-array>
+</resources>

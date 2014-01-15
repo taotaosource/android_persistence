@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="Theme.Light" parent="@style/Theme.AppCompat.Light">
+         <item name="android:windowContentOverlay">@null</item>
+          <item name="android:listViewStyle">@style/Widget.ListView</item>
+    </style>
+
+</resources>
